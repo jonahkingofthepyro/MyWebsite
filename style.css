@@ -1,0 +1,27 @@
+body {
+    font-size : 24px;
+}
+
+p {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+a:link {
+    color: rgb(52, 52, 82);
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:active {
+    color: red;
+}
